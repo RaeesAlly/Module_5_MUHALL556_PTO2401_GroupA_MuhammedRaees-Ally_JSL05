@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #221f24; /* Dark purple background */
+    color: #fff; /* White text color */
+    text-align: center; /* Center-align text */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+h1 {
+    color: #FFD700; /* Gold color for headings */
+    font-family: 'Pacifico', cursive; /* Fun font for headings */
+    font-size: 36px; /* Larger font size */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for headings */
+}
+
+.playlist {
+    margin: 20px; /* Margin around playlists */
+    padding: 20px; /* Increased padding inside playlists */
+    background-color: #6A5ACD; /* Purple background for playlists */
+    display: inline-block; /* Display playlists inline */
+    border-radius: 10px; /* Rounded corners for playlists */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Box shadow for playlists */
+}
+
+.song-title {
+    font-weight: bold; /* Bold font for song titles */
+    color: #FFD700; /* Yellow color for song titles */
+}
+
+.song-artist {
+    color: #fff; /* White color for artist names */
+    text-decoration: none; /* Remove default underline for artist names */
+}
+
+.song {
+    margin: 10px 0; /* Increased margin between songs */
+}
